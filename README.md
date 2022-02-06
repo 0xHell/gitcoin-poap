@@ -1,1 +1,1 @@
-# gitcoin-poap
+# GitcoinDao themed POAP template
